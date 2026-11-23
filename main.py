@@ -1,3 +1,4 @@
+# Plumber cold email entrypoint for make.fun competition
 import os
 
 def generate_entry():
