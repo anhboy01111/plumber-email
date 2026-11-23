@@ -4,15 +4,15 @@ def generate_entry():
     out_dir = "/output"
     os.makedirs(out_dir, exist_ok=True)
     text = (
-        "Subject: Bookkeeping for your two vans\n\n"
+        "Subject: No more receipts on your dashboard\n\n"
         "Hi Dave,\n\n"
-        "Between emergency callouts, merchants, and fitting boilers, "
-        "the last thing you need after a long shift is doing invoices at home.\n\n"
-        "I provide simple bookkeeping tailored for trade firms:\n"
+        "Between 6am emergency callouts, merchants, and fitting boilers, "
+        "the last thing you need after a 12-hour day is sorting receipts at the kitchen table.\n\n"
+        "I provide simple bookkeeping tailored for local plumbing firms:\n"
         "- Snap photos of parts and fuel receipts right from your cab.\n"
         "- We match invoices to jobs and keep your accounts audit-ready.\n"
-        "- Flat 30 pounds per week for both vans. No contracts.\n\n"
-        "First two weeks are free to test.\n\n"
+        "- Flat £30 per week for both vans. No contracts.\n\n"
+        "First two weeks are completely on us to test.\n\n"
         "Reply yes if you want your evenings back, and I will drop by Monday.\n\n"
         "Best,\nSam Miller"
     )
